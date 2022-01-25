@@ -1,4 +1,4 @@
-# Chaotic-Encryption-and-Privilege-Based-Visual-Secret-Sharing-Model-for-Color-Images
+# Chaotic Encryption-and-Privilege-Based-Visual-Secret-Sharing-Model-for-Color-Images
 This model comnines Privilege-based Visual Secret Sharing Model (PVSSM) and two-dimensional Logistic-Adjusted Sine Map (2D-LASM)
 http://www.cai.sk/ojs/index.php/cai/article/view/2019_3_701
 
