@@ -24,3 +24,5 @@ revealed. Histogram analysis is applied for all R, G and B channels. In addition
 observing the proposed method's performance on different image distortions, data
 loss and salt-pepper noise attack are applied to the encrypted images. The results
 show that this method has high resistance against these attacks.
+
+This is my Master thesis which is called Kaotik şifrelemeli ayrıcalık tabanlı görsel gizli paylaşım modeli geliştirilmesi / Development of chaotic encrypted privilege based visual secret sharing model.
